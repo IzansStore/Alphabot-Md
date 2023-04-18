@@ -35,7 +35,7 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.autowelcome = true //auto welcome msg all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
@@ -63,7 +63,7 @@ global.thumbnail = "./image/IMG-20230413-WA0291.jpg" // ini lol.jpg adalah nama 
 global.donasi = "./image/qris.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
+global.packname = '© ZaaBot' + botname //sticker wm ubah
 global.author = 'Created By FazaMd' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
